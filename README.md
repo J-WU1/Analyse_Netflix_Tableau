@@ -4,7 +4,7 @@ Un dashboard interactif conçu sur Tableau Public pour explorer le catalogue de 
 
 ## 🚀 Dashboard Interactif sur Tableau Public
 
-**[Cliquez ici pour explorer le dashboard interactif]([VOTRE_LIEN_TABLEAU_PUBLIC_ICI](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes))**
+**[Cliquez ici pour explorer le dashboard interactif]([(https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes)])**
 
 *(Veuillez noter que le chargement peut prendre quelques secondes. Le dashboard est optimisé pour un affichage sur ordinateur.)*
 
