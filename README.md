@@ -38,5 +38,6 @@ Ce projet vise à répondre à plusieurs questions clés sur le catalogue Netfli
 ## 📂 Contenu du Dépôt
 
 *   **`Analyse du Catalogue Netflix.twbx`** : Le classeur Tableau empaqueté. Ce fichier contient le dashboard et les données. Il peut être ouvert avec Tableau Public Desktop pour explorer la construction du projet en détail.
+*   **'netflix_titles.csv'** : Le jeu de données brut utilisé comme source pour l'analyse dans Tableau.
 *   **`.png`** : La capture d'écran du dashboard final.
 *   **`README.md`** : Ce fichier de présentation.
